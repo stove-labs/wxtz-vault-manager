@@ -1,0 +1,1 @@
+@bs.module("lodash") external isEqual: ('a, 'b) => bool = ""
