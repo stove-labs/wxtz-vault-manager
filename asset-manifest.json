@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wxtz-vault-manager/static/css/main.dc32ad1f.chunk.css",
-    "main.js": "/wxtz-vault-manager/static/js/main.c710a131.chunk.js",
-    "main.js.map": "/wxtz-vault-manager/static/js/main.c710a131.chunk.js.map",
+    "main.js": "/wxtz-vault-manager/static/js/main.6e2e3c9c.chunk.js",
+    "main.js.map": "/wxtz-vault-manager/static/js/main.6e2e3c9c.chunk.js.map",
     "runtime-main.js": "/wxtz-vault-manager/static/js/runtime-main.c5fb7459.js",
     "runtime-main.js.map": "/wxtz-vault-manager/static/js/runtime-main.c5fb7459.js.map",
     "static/css/2.8ba1b7a4.chunk.css": "/wxtz-vault-manager/static/css/2.8ba1b7a4.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.8ba1b7a4.chunk.css",
     "static/js/2.e81c8f08.chunk.js",
     "static/css/main.dc32ad1f.chunk.css",
-    "static/js/main.c710a131.chunk.js"
+    "static/js/main.6e2e3c9c.chunk.js"
   ]
 }
