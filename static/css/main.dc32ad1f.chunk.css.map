@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/dependencies.css"],"names":[],"mappings":"AACA,UACI,kCAAmC,CACnC,iCAAkC,CAClC,cACJ","file":"main.dc32ad1f.chunk.css","sourcesContent":["@import \"~normalize.css\";\nbody, html {\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    font-size: 16px;\n}"]}
