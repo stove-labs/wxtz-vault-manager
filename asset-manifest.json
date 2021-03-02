@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/wxtz-vault-manager/static/css/main.dc32ad1f.chunk.css",
-    "main.js": "/wxtz-vault-manager/static/js/main.6e2e3c9c.chunk.js",
-    "main.js.map": "/wxtz-vault-manager/static/js/main.6e2e3c9c.chunk.js.map",
-    "runtime-main.js": "/wxtz-vault-manager/static/js/runtime-main.c5fb7459.js",
-    "runtime-main.js.map": "/wxtz-vault-manager/static/js/runtime-main.c5fb7459.js.map",
-    "static/css/2.8ba1b7a4.chunk.css": "/wxtz-vault-manager/static/css/2.8ba1b7a4.chunk.css",
-    "static/js/2.e81c8f08.chunk.js": "/wxtz-vault-manager/static/js/2.e81c8f08.chunk.js",
-    "static/js/2.e81c8f08.chunk.js.map": "/wxtz-vault-manager/static/js/2.e81c8f08.chunk.js.map",
-    "static/js/3.77785986.chunk.js": "/wxtz-vault-manager/static/js/3.77785986.chunk.js",
-    "static/js/3.77785986.chunk.js.map": "/wxtz-vault-manager/static/js/3.77785986.chunk.js.map",
+    "main.css": "/wxtz-vault-manager/static/css/main.248ae420.chunk.css",
+    "main.js": "/wxtz-vault-manager/static/js/main.c9f54029.chunk.js",
+    "main.js.map": "/wxtz-vault-manager/static/js/main.c9f54029.chunk.js.map",
+    "runtime-main.js": "/wxtz-vault-manager/static/js/runtime-main.c0d2c5b7.js",
+    "runtime-main.js.map": "/wxtz-vault-manager/static/js/runtime-main.c0d2c5b7.js.map",
+    "static/css/2.7840597a.chunk.css": "/wxtz-vault-manager/static/css/2.7840597a.chunk.css",
+    "static/js/2.64a9b820.chunk.js": "/wxtz-vault-manager/static/js/2.64a9b820.chunk.js",
+    "static/js/2.64a9b820.chunk.js.map": "/wxtz-vault-manager/static/js/2.64a9b820.chunk.js.map",
+    "static/js/3.dc6faecd.chunk.js": "/wxtz-vault-manager/static/js/3.dc6faecd.chunk.js",
+    "static/js/3.dc6faecd.chunk.js.map": "/wxtz-vault-manager/static/js/3.dc6faecd.chunk.js.map",
     "index.html": "/wxtz-vault-manager/index.html",
-    "static/css/2.8ba1b7a4.chunk.css.map": "/wxtz-vault-manager/static/css/2.8ba1b7a4.chunk.css.map",
-    "static/css/main.dc32ad1f.chunk.css.map": "/wxtz-vault-manager/static/css/main.dc32ad1f.chunk.css.map",
-    "static/js/2.e81c8f08.chunk.js.LICENSE.txt": "/wxtz-vault-manager/static/js/2.e81c8f08.chunk.js.LICENSE.txt",
+    "static/css/2.7840597a.chunk.css.map": "/wxtz-vault-manager/static/css/2.7840597a.chunk.css.map",
+    "static/css/main.248ae420.chunk.css.map": "/wxtz-vault-manager/static/css/main.248ae420.chunk.css.map",
+    "static/js/2.64a9b820.chunk.js.LICENSE.txt": "/wxtz-vault-manager/static/js/2.64a9b820.chunk.js.LICENSE.txt",
     "static/media/github.16a9304e.svg": "/wxtz-vault-manager/static/media/github.16a9304e.svg",
     "static/media/index.css": "/wxtz-vault-manager/static/media/roboto-slab-latin-900.a31e8d7e.woff",
     "static/media/stove_labs.976aa924.svg": "/wxtz-vault-manager/static/media/stove_labs.976aa924.svg",
     "static/media/telegram.23683928.svg": "/wxtz-vault-manager/static/media/telegram.23683928.svg",
     "static/media/twitter.e7886f46.svg": "/wxtz-vault-manager/static/media/twitter.e7886f46.svg",
-    "static/media/wxtz_logo.fcc06d85.svg": "/wxtz-vault-manager/static/media/wxtz_logo.fcc06d85.svg"
+    "static/media/wxtz_logo.fcc06d85.svg": "/wxtz-vault-manager/static/media/wxtz_logo.fcc06d85.svg",
+    "static/media/wxtz_logo_dark.086defc0.svg": "/wxtz-vault-manager/static/media/wxtz_logo_dark.086defc0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5fb7459.js",
-    "static/css/2.8ba1b7a4.chunk.css",
-    "static/js/2.e81c8f08.chunk.js",
-    "static/css/main.dc32ad1f.chunk.css",
-    "static/js/main.6e2e3c9c.chunk.js"
+    "static/js/runtime-main.c0d2c5b7.js",
+    "static/css/2.7840597a.chunk.css",
+    "static/js/2.64a9b820.chunk.js",
+    "static/css/main.248ae420.chunk.css",
+    "static/js/main.c9f54029.chunk.js"
   ]
 }
